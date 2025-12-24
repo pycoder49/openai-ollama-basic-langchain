@@ -7,3 +7,5 @@
 4. Serving application with LangServe
 
 Using OpenAI and Ollama
+
+Run: "streamlit run app.py" to run
